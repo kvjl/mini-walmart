@@ -13,7 +13,7 @@ The idea was to play around with React component structure, passing props, and r
 
 ## Why I Built It
 
-Mostly as a hands-on way to deepen my React fundamentals:
+Mostly as a hands-on way to deepen my React fundamentals and play around with Tailwind:
 
 - Practicing component composition
 - Rendering lists dynamically
@@ -29,8 +29,4 @@ It’s intentionally lightweight and exploratory, not a full ecommerce clone.
 - JavaScript  
 - Basic CSS for layout
 
-## How to Run
 
-```bash
-npm install
-npm run dev
