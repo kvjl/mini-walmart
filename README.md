@@ -1,20 +1,36 @@
-<<<<<<< HEAD
+# Mini Walmart
 
-# React + Vite
+Mini Walmart is a simple React project I built as a quick experiment in building a basic product list interface and UI logic.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The idea was to play around with React component structure, passing props, and rendering a dynamic list of items — kind of like a tiny, pared-down version of a shopping/catalog UI.
 
-Currently, two official plugins are available:
+## What This Project Does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays a list of products
+- Shows basic product details (name, price, etc.)
+- Demonstrates simple React component hierarchy
+- Uses basic state/prop interactions for rendering
 
-## Expanding the ESLint configuration
+## Why I Built It
 
-# If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Mostly as a hands-on way to deepen my React fundamentals:
 
-# mini-walmart
+- Practicing component composition
+- Rendering lists dynamically
+- Working with props and simple state
+- Getting comfortable with project structure in React
 
-Walmart Clone in React, Tailwind!!
+It’s intentionally lightweight and exploratory, not a full ecommerce clone.
 
-> > > > > > > origin/main
+## Tech Stack
+
+- React  
+- Vite  
+- JavaScript  
+- Basic CSS for layout
+
+## How to Run
+
+```bash
+npm install
+npm run dev
